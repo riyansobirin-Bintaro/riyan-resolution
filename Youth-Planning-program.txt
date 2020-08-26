@@ -3,6 +3,7 @@ Rencana Program Belajar Pemuda Indonesia
 - Javascript
   * ES6
   * Framework Javascript
+- Struktur Data Dasar 
 - PHP Framework
 - Interview
 - Youth entrepreneur
