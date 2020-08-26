@@ -3,8 +3,10 @@ Rencana Program Belajar Pemuda Indonesia
 - Javascript
   * ES6
   * Framework Javascript
-- Struktur Data Dasar 
+    ^ Angular
+    ^ React
 - PHP Framework
+  ^ Laravel
 - Interview
 - Youth entrepreneur
 - About information of technology etc.
