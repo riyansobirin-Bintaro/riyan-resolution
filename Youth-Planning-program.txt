@@ -1,0 +1,9 @@
+Rencana Program Belajar Pemuda Indonesia
+
+- Javascript
+  * ES6
+  * Framework Javascript
+- PHP Framework
+- Interview
+- Youth entrepreneur
+- About information of technology etc.
