@@ -3,7 +3,7 @@ Rencana Program Belajar Pemuda Indonesia
 - Javascript
   * ES6
   * Framework Javascript
-    ^ Vue
+    ^ vue
     ^ React
 - Struktur Data Dasar 
 - PHP Framework
